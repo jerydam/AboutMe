@@ -29,6 +29,7 @@ Like My Work?
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: jerydan148@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/jerydam/AboutMe/blob/master/resumee.pdf).
+- 💬 &nbsp; Chat me up on Whatsapp [here](https://wa.me/message/RQCQJ3FITTOVA1)! I am always Available.
 
 ### My Absolute Favorites:
 
@@ -38,17 +39,36 @@ Like My Work?
 
 ### Languages and Tools:
 
-<code><img height="27" src="images/sol.png" alt="solidity"></code>
-<code><img height="27" src="images/tail.png" alt="tailwind"></code>
-<code><img height="27" src="images/wor.jpg" alt="wordpress"></code>
-<code><img height="27" src="images/figma.png" alt="figma"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="images/boot.jpeg" alt="bootstrap"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
+<img height="15" src="images/sol.png" alt="solidity"> solidity
+<img height="15" src="images/tail.png" alt="tailwind"> tailwind css
+<img height="15" src="images/wor.jpg" alt="wordpress"> wordpress
+<img height="15" src="images/figma.png" alt="figma"> figma
+<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">terminal
+
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"> sass
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+#### I have good experience in
+
+- NFT.
+- Vault, Lottery, Farm, Trading Contracts.
+- UniswapV2 & V3, Chainlink.
+- Smart contracts.
+
+| <a href="https://github.com/jerydam?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jerydam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a> | <a href="https://github.com/jerydam?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerydam&layout=compact&theme=buefy&hide_border=true" /> </a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### Show some ❤️ by starring some of the repositories!
 
