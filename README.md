@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Jeremiah Oyeniran](https://github.com/iampavangandhi/)
+## Hey 👋, I'm [Jeremiah Oyeniran](https://github.com/jerydam/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-oyeniran-9b1587205/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/jerydam)
