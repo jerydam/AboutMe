@@ -22,7 +22,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Solidity, Hardhat, Diamond Standard, <br /> Foundry, Reactjs, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Solidity, Hardhat, Diamond Standard, <br /> Foundry, Reactjs, Javascript, Rust, Leo etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jerydam).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/jerydam/AboutMe)! I am happy to help.
